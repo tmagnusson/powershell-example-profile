@@ -1,0 +1,1 @@
+Put these in your Git installs Git/Bin/ Folder
