@@ -4,7 +4,7 @@ First you might not be familiar that Windows has something called PowerShell, no
 
 To view quickly (for purposes of adding to taskbar/start menu) Click ```Windows Key``` + ```R```, then type ```PowerShell```, then ```Enter``` or click on PowerShell.
 
-### Setting up PowerShell to allow use of command line script extensions
+### Setting up PowerShell to allow use of command line script extensions.
 
 Set-ExecutionPolicy will stop you from using basic command line scripts, either by means of something called "Group Policy" (which if not set by a system admin, can be set by you in most cases.  Reference Link for ExecutionPolicy: [Set PowerShell Execution Policies | 4SysOp](https://4sysops.com/archives/set-powershell-execution-policy-with-group-policy/)
 
